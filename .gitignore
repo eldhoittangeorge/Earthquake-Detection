@@ -1,5 +1,6 @@
 .DS_Store
 Data/*
 .idea/*
+prophet_model.ipynb
 .ipynb_checkpoints/*
 __pycache__
