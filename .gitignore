@@ -2,5 +2,7 @@
 Data/*
 .idea/*
 prophet_model.ipynb
+Saved Models/*
+Script/Twitter/env_variable.py
 .ipynb_checkpoints/*
 __pycache__
